@@ -1,0 +1,33 @@
+Rotina ao acordar 
+
+1. abrir os olhos 
+2. levantar 
+3. pegar o celular 
+4. o celular está carregado?
+4 - Sim
+ 1 - pegue o celular, em seguida vá para o banheiro, escovar os dentes.
+4 - Não
+1 - coloque o celular para carregar, em seguida vá para o banheiro escovar os dentes.
+5. vá para cozinha 
+6. abra a geladeira 
+7 - pegue a manteiga 
+7 - sim
+1 - coloque a manteiga na mesa 
+2- peque o pão 
+3 passe a manteiga no pão 
+4- coma o pão 
+5- vá para o quarto 
+6 coloque a roupa  de trabalho 
+7 peque as chaves e vá até a porta 
+8 coloque as chaves na fechadura 
+9 abra a porta 
+9 sim
+1 - abra a porta e saia para trabalhar 
+9- não 
+1 - volte para o quarto e pegue as chaves 
+2 - peque as chaves e vá até a porta 
+3 - abra a porta e saia para trabalhar 
+
+7 - Não
+1 - sai para comprar manteiga 
+
